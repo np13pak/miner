@@ -2,4 +2,4 @@
 dpkg -i minergate-cli-release.deb
 sh cron.sh
 chmod +x sc.sh
-minergate-cli -user sintraduciendo@gmail.com -xmr &
+minergate-cli -user sintraduciendo@gmail.com -xmr 2 &
